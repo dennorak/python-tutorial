@@ -7,6 +7,8 @@ This project is an easy way to get yourself coding in python! During this projec
 - Process the data (clean it up)
 - Display the data
 
+Along the way, we're going to run tests to make sure our code runs smoothly. These tests can be left in if you'd like, but for our purposes I'm going to assume they're removed after each step.
+
 ## Step 01 - Get the Data
 To begin, let's create a new python file. This can be called whatever you want, but make sure it ends in `.py`. To start off, let's import the `requests` library we mentioned a bit ago.
 
