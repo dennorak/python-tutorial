@@ -62,7 +62,7 @@ plt.xlabel('day') # set x-axis label
 plt.ylabel('quantity') # set y-axis label
 
 # set title - using '{}' and .format()
-plt.title('cases per day since {}'.format(new_data['cases'][0]['date']))
+plt.title('cases per day since {}'.format(new_data['cases'][-1]['date']))
 
 # show the graph
 plt.show()

@@ -149,7 +149,7 @@ Now we'll just do some things to make our graph look nicer, such as adding a leg
 plt.legend()
 plt.xlabel('day')
 plt.ylabel('quantity')
-plt.title('cases per day since {}'.format(new_data['cases'][0]['date']))
+plt.title('cases per day since {}'.format(new_data['cases'][-1]['date']))
 ```
 
 Now that our data and labels are in place, let's see what we've done!
