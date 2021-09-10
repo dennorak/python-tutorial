@@ -5,7 +5,7 @@ This project is a basic tutorial to get you started using python! This tutorial 
 - If you have prior python experience and want an intro to data manipulation with python, or are just looking for a project to do, you are more than welcome to start the tutorial from the COVID-19 project directly, and start learning how to use python for data!
 
 ## Coding Basics with Python
-todo
+If you're new to coding, want a python reference, or want an overview of python syntax, open `basics.md` for a guide to all things python!
 
 ## COVID-19 Python Project
 This project has been split up into three parts. Each part will have it's own python file, and the directions for the project are in a markdown file. If you get stuck following the directions on the markdown file, use the python files to see an example.
